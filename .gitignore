@@ -37,6 +37,7 @@ packages/
 # local env files
 .env.local
 .env.*.local
+.env
 
 # Log files
 npm-debug.log*
@@ -59,3 +60,4 @@ cypress/videos
 # OS files
 Thumbs.db
 .DS_Store
+application.properties
